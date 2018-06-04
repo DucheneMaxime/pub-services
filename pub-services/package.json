@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/DucheneMaxime/pub-services/issues"
   },
-  "homepage": "https://github.com/DucheneMaxime/pub-services#readme"
+  "homepage": "https://github.com/DucheneMaxime/pub-services#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
